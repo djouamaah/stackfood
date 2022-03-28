@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385776263378",
+    "project_id": "tlbcom",
+    "storage_bucket": "tlbcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776263378:android:fe9485e3f205f4508f4d0b",
+        "android_client_info": {
+          "package_name": "com.tlbcom.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEcJJD3N9rXE_xaKHj8Kz2NwLyhkFwEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
