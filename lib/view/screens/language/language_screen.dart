@@ -35,7 +35,7 @@ class ChooseLanguageScreen extends StatelessWidget {
 
                       Center(child: Image.asset(Images.logo, width: 100)),
                       SizedBox(height: Dimensions.PADDING_SIZE_SMALL),
-                      Center(child: Image.asset(Images.logo_name, width: 100)),
+                     /* Center(child: Image.asset(Images.logo_name, width: 100)),*/
 
                       //Center(child: Text(AppConstants.APP_NAME, style: robotoMedium.copyWith(fontSize: Dimensions.FONT_SIZE_LARGE))),
                       SizedBox(height: 30),

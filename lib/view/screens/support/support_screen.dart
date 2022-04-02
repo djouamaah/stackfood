@@ -24,7 +24,7 @@ class SupportScreen extends StatelessWidget {
 
           Image.asset(Images.logo, width: 100),
           SizedBox(height: Dimensions.PADDING_SIZE_SMALL),
-          Image.asset(Images.logo_name, width: 100),
+          /* Image.asset(Images.logo_name, width: 100),*/
           /*Text(AppConstants.APP_NAME, style: robotoBold.copyWith(
             fontSize: 20, color: Theme.of(context).primaryColor,
           )),*/
