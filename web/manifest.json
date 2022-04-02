@@ -1,11 +1,11 @@
 {
-    "name": "StackFood",
-    "short_name": "StackFood",
+    "name": "tlbcom food",
+    "short_name": "tlbcom food",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#EF7822",
     "theme_color": "#EF7822",
-    "description": "A multi-restaurant e-commerce web app.",
+    "description": "tlbcom food web app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
